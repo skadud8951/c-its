@@ -6,4 +6,4 @@
   '영상 및 음성인식 기반 자율 차량 점검 시스템'을 도입하여 차량 점검에 대한 운전자들의 관심을 유도하고 궁극적으로 차량 결함에 의한 사고율을 낮추고자 함
   
 #### 최종형태
-<img src="D:/coding/cits.jpeg"  width="700" height="370">
+<img src="D:/coding/cits.jpg"  width="700" height="370">
